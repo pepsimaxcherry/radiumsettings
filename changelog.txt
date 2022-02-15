@@ -1,1 +1,1 @@
-Test
+Update 1: Fix steam rpc and partially remove discord rpc.
