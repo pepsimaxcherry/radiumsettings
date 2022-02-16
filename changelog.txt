@@ -1,2 +1,3 @@
 Update 1: Fix steam rpc and partially remove discord rpc.
 Update 2: A plethera of features.
+Update 3: Fetch upstream and revert dt bar.
